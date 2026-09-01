@@ -41,7 +41,6 @@ Then open the Pydroid 3 terminal and install the simulator:
 
 ```bash
 pip install real-hdd-simulator
-```
 After installation, the simulator package will be available in Python.
 Running the Simulator
 The recommended way to run the graphical interface in Pydroid 3 is to create a Python file.
